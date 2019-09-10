@@ -1,5 +1,5 @@
 {
-  "name": "edgeware-node-types",
+  "name": "straightedge-node-types",
   "version": "1.0.9",
   "description": "Type definitions for straightedge chain.",
   "main": "index.js",
