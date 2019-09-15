@@ -1,7 +1,7 @@
 {
   "name": "straightedge-node-types",
-  "version": "1.0.10",
-  "description": "Type definitions for edgeware chain.",
+  "version": "1.0.11",
+  "description": "Type definitions for straightedge chain.",
   "main": "index.js",
   "files": [
     "dist/"
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hicommonwealth/straightedge-node-types.git"
+    "url": "git+https://github.com/heystraightedge/straightedge-node-types.git"
   },
   "author": "jake@commonwealth.im",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hicommonwealth/straightedge-node-types/issues"
+    "url": "https://github.com/heystraightedge/straightedge-node-types/issues"
   },
-  "homepage": "https://github.com/hicommonwealth/straightedge-node-types#readme"
+  "homepage": "https://github.com/heystraightedge/straightedge-node-types#readme"
 }
